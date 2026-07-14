@@ -1,5 +1,7 @@
 # Diabetes Risk Prediction App
 
+🔗 **Live Demo**: (https://diabetes-prediction-app-9fcq38hmysddsumrvesbud.streamlit.app/)
+
 A machine learning web application that predicts a patient's diabetes risk based on key health metrics (glucose, BMI, insulin, etc.), built with a full end-to-end pipeline: data cleaning, model comparison, and a FastAPI + Streamlit deployment.
 
 This project was built as part of my self-learning journey toward becoming an Agentic AI Developer / ML Engineer.
