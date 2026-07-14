@@ -63,8 +63,10 @@ diabetes-prediction-api/
 ├── feature_importance.csv    # Feature importance values
 ├── main.py                   # FastAPI backend
 ├── app.py                    # Streamlit frontend
+├── app_hf.py                 # Standalone version for deployment on HuggingFace
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
+
 ```
 
 ---
